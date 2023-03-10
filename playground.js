@@ -37,3 +37,18 @@ var c = "I am a";
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+//This is camelCase. Capitalization matters with variables
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
+
+//Use let instead of var to trigger an error if you reuse a variable
+let catName = "Oliver";
+let catSound = "Meow!";
