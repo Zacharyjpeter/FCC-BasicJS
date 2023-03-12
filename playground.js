@@ -52,3 +52,15 @@ titleCaseOver = 9000;
 //Use let instead of var to trigger an error if you reuse a variable
 let catName = "Oliver";
 let catSound = "Meow!";
+
+//Const is to make a variable permanent and unchangable
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
+
+//variables can hold math calculations, variable name doesn't matter here
+const sum = 10 + 10;
+const difference = 45 - 33;
+const product = 8 * 10;
+const quotient = 66 / 33;
