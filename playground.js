@@ -53,6 +53,12 @@ titleCaseOver = 9000;
 let catName = "Oliver";
 let catSound = "Meow!";
 
+//Use ++ to increase your variable incrementally by one
+let myVar = 87;
+
+// Only change code below this line
+myVar++;
+
 //Const is to make a variable permanent and unchangable
 const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
@@ -64,3 +70,15 @@ const sum = 10 + 10;
 const difference = 45 - 33;
 const product = 8 * 10;
 const quotient = 66 / 33;
+
+//Use -- to decrease your variable incrementally by one
+let myVar2 = 11;
+
+// Only change code below this line
+myVar2--;
+
+//Variables can hold decimal points
+const ourDecimal = 5.7;
+
+// Only change code below this line
+let myDecimal = 5.7;
